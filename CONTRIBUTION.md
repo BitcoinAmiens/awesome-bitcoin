@@ -10,4 +10,4 @@ Pour les personnes qui ne savent pas utiliser github (c'est l'occasion de commen
 
 To contribute you can clone this repo and create a PR on the master branch. The PR will be review by the group members and merged if consider useful.
 
-For people who don't know how github work, you can create an `issue` with the link you want to add. If it is judge useful a member can create a PR so it can be merge to the repo. 
+For people who don't know how github work, you can create an `issue` with the link you want to add. If it is judge useful a member can create a PR so it can be merge to the repo.
