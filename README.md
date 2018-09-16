@@ -14,6 +14,12 @@ Une liste de ressources sur Bitcoin ou en relation avec les crypto-monnaies.
 - **Bitcoin whitepaper** : La version anglaise [ici](https://bitcoin.org/bitcoin.pdf)
 - **Gmaxwell's alt-ideas page** : [ici](https://en.bitcoin.it/wiki/User:Gmaxwell/alt_ideas)
 
+## Vidéos
+
+### En Français
+
+- **Science Etonnante** : Vidéo qui explique bien comment la blockchain fonctionne. Parfait pour les débutants. https://www.youtube.com/watch?v=du34gPopY5Y
+
 
 ## Cool projets
 
