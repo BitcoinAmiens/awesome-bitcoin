@@ -19,7 +19,7 @@ Une liste de ressources sur Bitcoin ou en relation avec les crypto-monnaies.
 ### En Français
 
 - **Science Etonnante** : Vidéo qui explique bien comment la blockchain fonctionne. Parfait pour les débutants. https://www.youtube.com/watch?v=du34gPopY5Y
-
+- **Les fondamentaux de la blockchain** : Vidéo reprenant les mathématiques utilisé. https://youtu.be/jETqR5rRJ5k
 
 ## Cool projets
 
